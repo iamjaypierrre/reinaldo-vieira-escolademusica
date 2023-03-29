@@ -410,6 +410,13 @@ body {
   cursor: pointer;
 }
 
+#location2 .follow i {
+  color: #7b817e;
+  font-size: 20px;
+  padding-right: 4px;
+  cursor: pointer;
+}
+
 /* Animations test */ 
 
 .hidden {
